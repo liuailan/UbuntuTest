@@ -1,5 +1,6 @@
 #include<stdio.h>
 int main()
 {
-    printf("dsjkafjlkcnlsjk\n");
+    	printf("dwjlnskjcdskcj\n"");
+	printf("dsjkafjlkcnlsjk\n");
 }
