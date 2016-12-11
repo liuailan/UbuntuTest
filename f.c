@@ -7,5 +7,6 @@ int main()
 		if(i==1)
 		break;
 	}
+	printf("dsjbhdg\n");
 	return  0;
 }
